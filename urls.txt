@@ -1,0 +1,8 @@
+https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png
+https://raw.githubusercontent.com/python/cpython/main/README.rst
+https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+https://httpbin.org/image/png
+https://httpbin.org/delay/3
+https://httpbin.org/bytes/102400
+https://this.url.does.not.exist/resource.zip
+https://httpbin.org/status/404
